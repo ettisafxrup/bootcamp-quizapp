@@ -1,4 +1,4 @@
-# Quiz App 🚀
+# 🎓 Quiz App 
 
 A quizapp with timer for the #2weekswebbootcamp
 
